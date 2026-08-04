@@ -160,6 +160,17 @@ The application provides:
 
 - Deep Translator
 
+## 👥 Our Team
+
+AI Health Assistant was developed by our team as a graduation project.
+
+| Name |
+|------|
+| Mahmoud Shaaban |
+| Peter Hany Mousa |
+| Hassan Mahmoud Hassan |
+| Maryam Mohamed Saad |
+| Fatma Mahmoud Ahmed |
 
 ---
 
